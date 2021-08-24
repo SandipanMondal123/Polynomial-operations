@@ -3,12 +3,7 @@ package poly;
 import java.io.IOException;
 import java.util.Scanner;
 //SANDIPAN MONDAL
-/**
- * This class implements evaluate, add and multiply for polynomials.
- * 
- * @author runb-cs112
- *
- */
+
 public class Polynomial {
 	
 	/**
